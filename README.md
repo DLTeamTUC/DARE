@@ -33,12 +33,6 @@ DARE/
 ├── requirements.txt
 ├── notebooks/
 │   └── 01_dare_framework.ipynb
-├── data/
-│   └── .gitkeep
-├── results/
-│   └── .gitkeep
-└── figures/
-    └── .gitkeep
 ```
 
 ## Datasets
